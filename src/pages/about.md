@@ -2,30 +2,16 @@
 title: About Me
 subtitle: ""
 metaDescription: This page is all about me
-date: 2017-01-01T00:00:00.000Z
+date: 2024-10-27T13:50:29.994Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
+Hello! I’m Stefano Boretti, a data enthusiast and technology professional with a solid foundation in system administration and a keen focus on data science. My journey began with a Bachelor’s in Computer Science, followed by hands-on experience as a System Administrator, where I specialized in network management, server setup, and client-facing technology solutions. I later pursued a Master’s in Data Science, inspired by the potential of data to drive impactful decisions and streamline processes.
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+Throughout my career, I’ve developed a versatile skill set across multiple programming languages, including Python, R, C#, and .NET, which I leverage to create solutions for both clients and research projects. My experience spans a range of technologies—from server virtualization with VMware to data analytics and visualization using Tableau and advanced Python libraries. I have completed various university projects, including text mining, big data analysis, and machine learning, all centered around transforming raw data into meaningful insights.
 
-### Why create this?
+Driven by a desire to continuously learn and innovate, I am passionate about exploring new ways to apply data science to real-world challenges. Whether building custom data pipelines, visualizing trends, or optimizing server infrastructures, my goal is always the same: to make technology work smarter for everyone. Thank you for visiting, and I invite you to explore my portfolio to see my projects in action!
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
-
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
-
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
-
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
-
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
-
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
-
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+![]()
