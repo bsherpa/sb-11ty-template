@@ -19,3 +19,5 @@ Feedback gathered from user surveys guided our refinements to the Tableau visual
 Our analysis offers a user-friendly perspective on the crypto market's volatility and sentiment dynamics, paving the way for further explorations in this dynamic field.
 
 Here is the link to the complete work on Tableau: <https://public.tableau.com/app/profile/stefano.boretti/viz/Infograficacriptovalute/Storia1?publish=yes>
+
+![Cryptocurrency market visualization](/src/assets/img/cryptovalute.jpeg "General visualization")
