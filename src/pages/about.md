@@ -14,4 +14,3 @@ Throughout my career, I’ve developed a versatile skill set across multiple pro
 
 Driven by a desire to continuously learn and innovate, I am passionate about exploring new ways to apply data science to real-world challenges. Whether building custom data pipelines, visualizing trends, or optimizing server infrastructures, my goal is always the same: to make technology work smarter for everyone. Thank you for visiting, and I invite you to explore my portfolio to see my projects in action!
 
-![]()
