@@ -1,18 +1,23 @@
 ---
-title: Another NPM Package
-emoji: 💾
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
-date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
+title: Analyzing the Cryptocurrency Market
+emoji: 💰
+date: 2024-10-27T15:01:31.274Z
+summary: "Analyzing the Cryptocurrency Market: Trends in Transaction Volumes and
+  Sentiment Impact"
+metaDescription: "Analyzing the Cryptocurrency Market: Trends in Transaction
+  Volumes and Sentiment Impact"
 tags:
-  - javascript
-  - node
+  - Tableau
+  - Python
 ---
+Cryptocurrency has rapidly grown since its inception in 2009, reaching trading volumes that now rival traditional financial markets. Driven by our interest in this emerging field, we conducted an analysis to explore transaction volumes, price trends, and the impact of news sentiment on crypto market activity. Our project focused on Bitcoin and Ethereum, utilizing datasets from Kaggle, which included both historical cryptocurrency data and sentiment data specific to these two major coins.
 
-### Task
+For the analysis, we processed the data in Python, using TextBlob to classify news sentiment and examine its potential influence on transaction volumes. The visual insights were then crafted in Tableau, creating interactive infographics aimed at making this complex data accessible to a broader audience. Our Tableau dashboard featured four key visualizations: an overview of cryptocurrency growth since 2010, a comparative view of Bitcoin and Ethereum’s price and volume trends, and a closer look at the correlation between news sentiment and volume spikes.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Feedback gathered from user surveys guided our refinements to the Tableau visualizations, ensuring clarity for those new to financial markets. Through these interactive elements, we illustrated the nuanced relationships between market sentiment and cryptocurrency behavior, uncovering how, for example, negative sentiment often led to trading volume increases, while positive sentiment showed more varied effects.
 
-### Solution
+Our analysis offers a user-friendly perspective on the crypto market's volatility and sentiment dynamics, paving the way for further explorations in this dynamic field.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Here is the link to the complete work on Tableau: <https://public.tableau.com/app/profile/stefano.boretti/viz/Infograficacriptovalute/Storia1?publish=yes>
+
+![Cryptocurrency market visualization](/src/assets/img/cryptovalute.jpeg "General visualization")
