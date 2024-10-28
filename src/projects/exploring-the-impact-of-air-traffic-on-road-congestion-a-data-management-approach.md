@@ -9,6 +9,8 @@ tags:
   - python
   - MongoDB
   - Raspberry
+  - Selenium
+  - Beautifulsoap
 ---
 This project aimed to analyze the relationship between air traffic at major Italian airports and the associated road traffic around these areas. We focused on four airports—Bergamo, Rome, Naples, and Catania—and collected data over 26 days using Google and TomTom APIs to monitor road traffic and custom web scraping techniques to track flight data.
 
