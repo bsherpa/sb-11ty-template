@@ -9,6 +9,7 @@ tags:
   - pandas
   - xarray
   - NetCDF
+  - geopandas
 ---
 This project aimed to assess temperature trends in Piemonte over the past three decades by combining multiple data sources and GIS tools. We used data from ERA5 (Copernicus Climate Data) and ARPA Piemonte, with the ERA5 data in NetCDF format and ARPA data in CSV files. Using Python, i've handled data aggregation and manipulation with libraries like pandas for data handling, xarray for processing NetCDF files, and geopandas for integrating spatial data.
 
