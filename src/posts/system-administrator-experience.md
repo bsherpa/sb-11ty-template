@@ -9,7 +9,7 @@ tags:
   - VB.Net
   - Connectwise
   - SQL
-  - Network
+  - NetworkAdministration
 ---
 During my years as a System Administrator, I had the invaluable opportunity to work with a diverse client base, providing IT consultancy, support, and tailored solutions to meet their specific needs. This role allowed me to deepen my understanding and application of essential system administration and network management concepts. My responsibilities and achievements in this role included:
 
