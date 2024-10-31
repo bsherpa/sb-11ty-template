@@ -13,3 +13,5 @@ Hello! I’m Stefano Boretti, a data enthusiast and technology professional with
 Throughout my career, I’ve developed a versatile skill set across multiple programming languages, including Python, R, C#, and .NET, which I leverage to create solutions for both clients and research projects. My experience spans a range of technologies—from server virtualization with VMware to data analytics and visualization using Tableau and advanced Python libraries. I have completed various university projects, including text mining, big data analysis, and machine learning, all centered around transforming raw data into meaningful insights.
 
 Driven by a desire to continuously learn and innovate, I am passionate about exploring new ways to apply data science to real-world challenges. Whether building custom data pipelines, visualizing trends, or optimizing server infrastructures, my goal is always the same: to make technology work better for everyone. Thank you for visiting, and I invite you to explore my portfolio to see my projects in action!
+
+![sunrise](/src/assets/img/img_20220102_072359.jpeg "sunrise")
