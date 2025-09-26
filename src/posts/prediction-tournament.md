@@ -24,6 +24,8 @@ calendario for official match schedules and results, giocatore for users, pronos
 
 Because this project is designed for a small community, I chose SQLite as the database. It’s lightweight, requires no server setup, and integrates seamlessly with SQLAlchemy. The simplicity of a single .sqlite file also makes backups and migrations straightforward.
 
+![](/src/assets/img/pronostici.jpeg)
+
 For the UI, I relied on:
 Jinja2: templating (integrated with Flask) to render HTML pages with dynamic content.
 Bootstrap 5: for responsive layouts, ensuring the site works well on both desktop and mobile.
