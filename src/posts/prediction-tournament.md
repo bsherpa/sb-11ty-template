@@ -1,7 +1,7 @@
 ---
 title: "Building a Prediction Tournament Web App on Raspberry Pi"
 emoji: ⚽
-date: 2024-10-27T16:59:33.310Z
+date: 2025-9-26T16:59:33.310Z
 summary: "Building a Prediction Tournament Web App on Raspberry Pi"
 metaDescription: "Building a Prediction Tournament Web App on Raspberry Pi"
 tags:
